@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome%20to%20My%20Space&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4B0082,100:9400D3&text=Backend%20Development&fontAlign=50&fontAlignY=35&desc=Crafting%20Secure%20Digital%20Solutions&descAlign=50&descAlignY=55&fontColor=ffffff&stroke=ffffff&strokeWidth=2)
 
 <!-- Introduction Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C36B5&center=true&vCenter=true&random=false&width=1000&lines=Cybersecurity+Enthusiast+%7C+Backend+Developer+%7C+Quantum+Cryptography+%26+Web+Integration+Specialist)](https://git.io/typing-svg)
