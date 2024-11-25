@@ -11,7 +11,7 @@ let mut DwD3QNRp: Developer = Developer {
     role: "Backend Developer & Security Enthusiast",
     code: ["Kotlin", "Rust", "Python"]
     interests: {
-        technical: [Quantum Cryptography, Cryptography, System, Algorithms, Back-end, Socket, Network Security],
+        technical: [Quantum Cryptography, Cryptography, System, Algorithms, Backend, Socket, Network Security],
         creative: ["Code Not Poetry", "Interesting Solutions", "Innovation"]
     },
     currentlyLearning: "Advanced Quantum Key Distribution Techniques",
