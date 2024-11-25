@@ -2,11 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4B0082,100:9400D3&text=Backend%20Development&fontAlign=50&fontAlignY=35&desc=Crafting%20Secure%20Digital%20Solutions&descAlign=50&descAlignY=55&fontColor=ffffff&stroke=ffffff&strokeWidth=2)
 
 <!-- Introduction Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=300&color=36BCF7&vCenter=true&multiline=true&random=false&width=1000&height=230&lines=[+System+Initialize+]+>+Loading+developer+profile:+DwD3QNRp...;[+SUCCESS+]+>+Backend+Development+System+Core+loaded;[+INFO+]+>+Primary+skills+activated:+Kotlin%2C+Rust%2C+Python;[+INFO+]+>+Quantum+protocols+initialized...;[+STATUS+]+>+Cryptography+modules+standing+by...;[+FOCUS+]+>+Advancing+Quantum+Key+Distribution+protocols;[+PROJECT+]+>+Implementing+VFS+Custom+Algorithms+with+Verilog;[+SYSTEM+]+>+All+security+modules+activated+and+running)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2000&pause=300&color=36BCF7&vCenter=true&multiline=true&random=false&width=1000&height=230&lines=%5B2007.03.30+00:00:01%5D+[+Initialize+]+>+Loading+Operator+System:+3QNRpDwD-x86_64...;%5B2007.03.30+00:00:02%5D+[+SUCCESS+]+>+Development+Operator+System+Kernel+loaded;%5B2007.03.30+00:00:03%5D+[+INFO+]+>+Primary+skills+activated:+Kotlin%2C+Rust%2C+Python;%5B2007.03.30+00:00:04%5D+[+INFO+]+>+Security+System+Implementation:+IN_PROGRES;%5B2007.03.30+00:00:05%5D+[+INFO+]+>+Quantum+protocols+initialized...;%5B2007.03.30+00:00:06%5D+[+STATUS+]+>+Cryptography+Modules:+Deployment;%5B2007.03.30+00:00:07%5D+[+PROJECT+]+>+Deploying+VFS+Custom+Algorithms+with+Verilog;%5B2007.03.30+00:00:08%5D+[+SYSTEM+]+>+All+Modules+Activated,+System+Online)](https://git.io/typing-svg)
 
-## 🌟 ## 💫 `cat AboutMe.rs`
+## 🌟 ## 💫 `cat Kernel.rs`
 ```Rust
 let mut DwD3QNRp = Developer {
+    version: 2007.033.0
     role: "Backend Developer & Security Enthusiast",
     code: vec![ Kotlin, Rust, Python ],
     interests: vec![
