@@ -2,15 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4B0082,100:9400D3&text=Backend%20Development&fontAlign=50&fontAlignY=35&desc=Crafting%20Secure%20Digital%20Solutions&descAlign=50&descAlignY=55&fontColor=ffffff&stroke=ffffff&strokeWidth=2)
 
 <!-- Introduction Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C36B5&center=true&vCenter=true&random=false&width=1000&lines=Cybersecurity+Enthusiast+%7C+Backend+Developer+%7C+Quantum+Cryptography+%26+Web+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=120&lines=~+$+initiating+quantum+protocols...;~+$+exploring+cybersecurity+frontiers...;~+$+crafting+Interesting+backend+solutions...)](https://git.io/typing-svg)
 
-## 🌟 About Me
+
+## 🌟 ## 💫 `Syste.out.println("About Me")`
 ```Rust
 let mut DwD3QNRp: Developer = Developer {
-    focus: "Backend Development & Cybersecurity",
-    interests: ["Quantum Cryptography", "Network Security", "Web Development"],
+    role: "Backend Developer & Security Enthusiast",
+    code: ["Kotlin", "Rust", "Python"]
+    interests: {
+        technical: [Quantum Cryptography, Cryptography, System, Algorithms, Back-end, Socket, Network Security],
+        creative: ["Code Not Poetry", "Interesting Solutions", "Innovation"]
+    },
     currentlyLearning: "Advanced Quantum Key Distribution Techniques",
-    looking: "To collaborate on innovative security projects"
+    looking: "Applying VFS Custom Algorithms Using Verilog"
 }
 ```
 
