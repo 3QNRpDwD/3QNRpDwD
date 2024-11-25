@@ -2,21 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4B0082,100:9400D3&text=Backend%20Development&fontAlign=50&fontAlignY=35&desc=Crafting%20Secure%20Digital%20Solutions&descAlign=50&descAlignY=55&fontColor=ffffff&stroke=ffffff&strokeWidth=2)
 
 <!-- Introduction Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=120&lines=~+$+initiating+quantum+protocols...;~+$+exploring+cybersecurity+frontiers...;~+$+crafting+Interesting+backend+solutions...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=300&color=36BCF7&vCenter=true&multiline=true&random=false&width=1000&height=230&lines=[+System+Initialize+]+>+Loading+developer+profile:+DwD3QNRp...;[+SUCCESS+]+>+Backend+Development+System+Core+loaded;[+INFO+]+>+Primary+skills+activated:+Kotlin%2C+Rust%2C+Python;[+INFO+]+>+Quantum+protocols+initialized...;[+STATUS+]+>+Cryptography+modules+standing+by...;[+FOCUS+]+>+Advancing+Quantum+Key+Distribution+protocols;[+PROJECT+]+>+Implementing+VFS+Custom+Algorithms+with+Verilog;[+SYSTEM+]+>+All+security+modules+activated+and+running)](https://git.io/typing-svg)
 
-
-## 🌟 ## 💫 `Syste.out.println("About Me")`
+## 🌟 ## 💫 `cat AboutMe.rs`
 ```Rust
-let mut DwD3QNRp: Developer = Developer {
+let mut DwD3QNRp = Developer {
     role: "Backend Developer & Security Enthusiast",
-    code: ["Kotlin", "Rust", "Python"]
-    interests: {
-        technical: [Quantum Cryptography, Cryptography, System, Algorithms, Backend, Socket, Network Security],
-        creative: ["Code Not Poetry", "Interesting Solutions", "Innovation"]
-    },
+    code: vec![ Kotlin, Rust, Python ],
+    interests: vec![
+        technical: Technical { Quantum Cryptography, Cryptography, System, Algorithms, Backend, Socket, Network Security },
+        creative: Creative { "Code Not Poetry", "Interesting Solutions", "Innovation" }
+    ],
     currentlyLearning: "Advanced Quantum Key Distribution Techniques",
     looking: "Applying VFS Custom Algorithms Using Verilog"
-}
+};
 ```
 
 ## 📊 GitHub Analytics
