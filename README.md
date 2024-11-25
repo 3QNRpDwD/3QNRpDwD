@@ -73,12 +73,23 @@ let mut DwD3QNRp = Developer {
 - Implemented efficient backend logic
 - Containerized deployment with Docker
 
+## 🔧 Algorithm Project
+
+### Coming Soon
+
+### Coming Soon
+
 ## 🔒 Security Projects
 
 ### EternalBlue Fork
 - Practice implementation of MS17-010 vulnerability
 - Security improvement research
 - Penetration testing methodology
+
+### Analysis and Implementation of Ransomware
+- Coming Soon
+- Coming Soon
+- Coming Soon
 
 ## 🚀 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -97,7 +108,7 @@ let mut DwD3QNRp = Developer {
   </a>
 </p>
 
-## 📈 Contribution Graph
+## --📈 Contribution Graph--
 
 
-# From below, I'm still creating a profile.
+## Coming Soon...
