@@ -65,13 +65,15 @@ let mut DwD3QNRp = Developer {
 - Implemented custom socket communication
 - Created secure data transfer mechanisms
 
-### ⚡ Spring Boot Web Application
+### ⚡ Web Application
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 - Designed RESTful APIs using Kotlin
 - Implemented efficient backend logic
 - Containerized deployment with Docker
+- Implementing the http Protocol Using Python
+- Stemtour Application Using Rust actix Web
 
 ## 🔧 Algorithm Project
 
