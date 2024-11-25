@@ -64,6 +64,7 @@ let mut DwD3QNRp = Developer {
 - Developed various network protocols
 - Implemented custom socket communication
 - Created secure data transfer mechanisms
+- Fully customizable network protocol framework
 
 ### ⚡ Web Application
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -88,7 +89,7 @@ let mut DwD3QNRp = Developer {
 - Security improvement research
 - Penetration testing methodology
 
-### Analysis and Implementation of Ransomware
+### Analysis and Implementation of Malware
 - Coming Soon
 - Coming Soon
 - Coming Soon
