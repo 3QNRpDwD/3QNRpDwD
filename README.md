@@ -98,12 +98,6 @@ let mut DwD3QNRp = Developer {
 </p>
 
 ## 📈 Contribution Graph
-![Snake animation](https://github.com/3QNRpDwD/3QNRpDwD/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Profile Views Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=3QNRpDwD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=footer)
+"From below, I'm still creating a profile."
