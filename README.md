@@ -60,6 +60,7 @@ let mut DwD3QNRp = Developer {
 
 ### 🌐 Socket-Based Network System
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 - Developed various network protocols
 - Implemented custom socket communication
 - Created secure data transfer mechanisms
