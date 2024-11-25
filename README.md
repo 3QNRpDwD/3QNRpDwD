@@ -94,7 +94,7 @@ let mut DwD3QNRp = Developer {
 - Coming Soon
 - Coming Soon
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 🚀
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,14 +102,11 @@ let mut DwD3QNRp = Developer {
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-<br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+## 🛠 Tools 🛠
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 <br>
 
