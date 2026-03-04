@@ -75,14 +75,7 @@
 | Channel | Link |
 |:---|:---|
 | 📧 Email | 2QNRpDwD@email.com |
-| 💼 LinkedIn | [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) |
-| 🐦 Twitter/X | [@yourusername](https://twitter.com/yourusername) |
-| 📝 Blog | [yourblog.dev](https://yourblog.dev) |
 
 ---
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=80&section=footer)
 
 </div>
