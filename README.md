@@ -2,11 +2,11 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   Turning data into decisions. Models into products.      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║   Turning data into decisions. Models into products.      ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
 ```
 
 # Hi, I'm Yudy &nbsp;`AI/ML Engineer`
@@ -72,7 +72,7 @@
 
 | Channel | Link |
 |:---|:---|
-| 📧 Email | your@email.com |
+| 📧 Email | 2QNRpDwD@email.com |
 | 💼 LinkedIn | [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) |
 | 🐦 Twitter/X | [@yourusername](https://twitter.com/yourusername) |
 | 📝 Blog | [yourblog.dev](https://yourblog.dev) |
